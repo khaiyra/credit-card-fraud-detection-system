@@ -6,4 +6,4 @@ How to run the project? Change directory to your current directory and type comm
 
 Note: You need to install all the libraries that are imported in demoStreamlit.py in order to succeesfully run the project.
 
-or just check this link that directs to the web app.
+or just click this link that directs to the web app.
